@@ -1,0 +1,4982 @@
+#Stark
+450200 = {
+	name="Whitewolf"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450201 = {
+	name="Goldfang"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450202 = {
+	name="Dreadwolf"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450203 = {
+	name="Winterhold"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Targaryen
+450204 = {
+	name="Redwyrm"
+	culture = hedge
+	divine_blood=yes
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450205 = {
+	name="Truedrake"
+	culture = hedge
+	divine_blood=yes
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450206 = {
+	name="Fyreblood"
+	culture = hedge
+	divine_blood=yes
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450207 = {
+	name="Goldfyre"
+	culture = hedge
+	divine_blood=yes
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Lannister
+450208 = {
+	name="Silvermane"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450209 = {
+	name="Redclaw"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450210 = {
+	name="Roaring"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450211 = {
+	name="Lionford"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Martell
+450212 = {
+	name="Darksun"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 19
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450213 = {
+	name="Sunviper"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 19
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450214 = {
+	name="Blackadder"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 19
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450215 = {
+	name="Snakespear"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 19
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Tully
+450216 = {
+	name="Redriver"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450217 = {
+	name="Darkfish"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450218 = {
+	name="Goldfish"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450219 = {
+	name="Steeltrout"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Arryn
+450220 = {
+	name="Redwing"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450221 = {
+	name="Kestrel"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450222 = {
+	name="Bluebird"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450223 = {
+	name="Skywarden"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Baratheon
+450224 = {
+	name="Stagborn"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450225 = {
+	name="Stormhart"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450226 = {
+	name="Durrande"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450227 = {
+	name="Deer"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Tyrell
+450228 = {
+	name="Bloodrose"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450229 = {
+	name="Blackrose"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450230 = {
+	name="Smallrose"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450231 = {
+	name="Greenrose"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Greyjoy
+450232 = {
+	name = "Silverink"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450233 = {
+	name = "Redjoy"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450234 = {
+	name = "Ironkraken"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450235 = {
+	name = "Hardman"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Frey
+450236 = {
+	name = "Twinchild"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450237 = {
+	name = "Goldcross"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450238 = {
+	name = "Tollbridge"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450239 = {
+	name = "Northgate"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+#CUSTOM PLAYER CADET HOUSES
+450240 = {
+	name = "North"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450241 = {
+	name = "East"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450242 = {
+	name = "South"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+450243 = {
+	name = "West"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 19
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+## 1.3.x - NEW CADET HOUSES ##
+
+#Rosby - 38
+450244 = {
+	name = "Staine"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450245 = {
+	name = "Bradshaw"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450246 = {
+	name = "Wilkowe"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Rykker - 36
+450247 = {
+	name = "Telwall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450248 = {
+	name = "Stopford"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450249 = {
+	name = "Baille"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Thorne - 30
+450250 = {
+	name = "Sable"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450251 = {
+	name = "Brinkdale"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450252 = {
+	name = "Morgenster"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Bywater - 45
+450253 = {
+	name = "Elleston"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450254 = {
+	name = "Lindby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450255 = {
+	name = "Shawe"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Velaryon - 52
+450256 = {
+	name = "Dromegar"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450257 = {
+	name = "Caladryon"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450258 = {
+	name = "Embartys"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Celtigar - 50
+450259 = {
+	name = "Sindoryen"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450260 = {
+	name = "Hardshell"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450261 = {
+	name = "Angotys"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Massey - 46
+450262 = {
+	name = "Eldricport"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450263 = {
+	name = "Iton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450264 = {
+	name = "Goisham"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Blackwood - 150
+450265 = {
+	name = "Whitestaff"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450266 = {
+	name = "Ravenscar"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450267 = {
+	name = "Breakbow"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Bracken - 149
+450268 = {
+	name = "Randle"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450269 = {
+	name = "Knoll"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450270 = {
+	name = "Hengston"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Mallister - 128
+450271 = {
+	name = "Hardcastle"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450272 = {
+	name = "Earnewold"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450273 = {
+	name = "Algarmont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Piper - 157
+450274 = {
+	name = "Young"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450275 = {
+	name = "Banners"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450276 = {
+	name = "Maidenfield"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Caron - 301
+450277 = {
+	name = "Lumbard"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450278 = {
+	name = "Goreland"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450279 = {
+	name = "Weale"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Swann - 306
+450280 = {
+	name = "Stonehelm"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450281 = {
+	name = "Olorton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450282 = {
+	name = "Marchersford"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Buckler - 319
+450283 = {
+	name = "Marbury"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450284 = {
+	name = "Gates"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450285 = {
+	name = "Pallather"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Estermont - 330
+450286 = {
+	name = "Tetherstone"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450287 = {
+	name = "Rumbold"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450288 = {
+	name = "Damport"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Wylde - 329
+450289 = {
+	name = "Bullen"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 45
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450290 = {
+	name = "Vayerr"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450291 = {
+	name = "Cemberlyng"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Tarth - 54
+450292 = {
+	name = "Eastyng"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 48
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450293 = {
+	name = "Corrund"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450294 = {
+	name = "Garriot"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Toyne - 307
+450295 = {
+	name = "Mothall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450296 = {
+	name = "Wyeton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450297 = {
+	name = "Salbach"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Allyrion - 9
+450298 = {
+	name = "Casanmar"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 54
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450299 = {
+	name = "Garglass"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450300 = {
+	name = "Anvil"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Dayne - 16
+450301 = {
+	name = "Serenmont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 57
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450302 = {
+	name = "Torendayne"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 58
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450303 = {
+	name = "Palestone"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 59
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Fowler - 14
+450304 = {
+	name = "Lisland"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450305 = {
+	name = "Bowyer"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 61
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450306 = {
+	name = "Spires"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 62
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Jordayne - 10
+450307 = {
+	name = "Curson"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 63
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450308 = {
+	name = "Medlar"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 64
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450309 = {
+	name = "Ironquill"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 65
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Uller - 13
+450310 = {
+	name = "Alomar"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 66
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450311 = {
+	name = "Santarion"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 67
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450312 = {
+	name = "Brimstone"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 68
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Yronwood - 12
+450313 = {
+	name = "Glendour"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 69
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450314 = {
+	name = "Arqert"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 70
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450315 = {
+	name = "Blackgate"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		#religion = "old_ones"
+		layer = {
+			texture = 20
+			texture_internal = 71
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Goodbrother - 112
+450316 = {
+	name = "Redsail"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 72
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450317 = {
+	name = "Hackland"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 73
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450318 = {
+	name = "Freeman"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 74
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Harlaw - 122
+450319 = {
+	name = "Sheercliff"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 75
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450320 = {
+	name = "Ardway"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 76
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450321 = {
+	name = "Saltyre"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 77
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Drumm - 121
+450322 = {
+	name = "Strongrow"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 78
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450323 = {
+	name = "Balekeep"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 79
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450324 = {
+	name = "Thirsck"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 80
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Farwynd - 114
+450325 = {
+	name = "Isswynd"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 81
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450326 = {
+	name = "Cruelsea"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 82
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450327 = {
+	name = "Whaler"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Belmore - 161
+450328 = {
+	name = "Delving"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 84
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450329 = {
+	name = "Osterwyck"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 85
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450330 = {
+	name = "Tendale"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 86
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Corbray - 176
+450331 = {
+	name = "Nayrest"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 87
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450332 = {
+	name = "Nethermoor"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 88
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+
+450333 = {
+	name = "Fastolf"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 89
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Grafton - 186
+450334 = {
+	name = "Tanckred"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 90
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450335 = {
+	name = "Cadmont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 91
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450336 = {
+	name = "Gull"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Hunter - 177
+450337 = {
+	name = "Hawkwood"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450338 = {
+	name = "Laine"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 94
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450339 = {
+	name = "Rutland"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Royce - 187
+450340 = {
+	name = "Weirstone"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450341 = {
+	name = "Caskeld"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450342 = {
+	name = "Brasse"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Waynwood - 182
+450343 = {
+	name = "Farthyng"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450344 = {
+	name = "Cartwright"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 100
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450345 = {
+	name = "Radbroke"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 101
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Waxley - 189
+450346 = {
+	name = "Candleston"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 102
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450347 = {
+	name = "Kannock"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 103
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450348 = {
+	name = "Thaller"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 104
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Sunderland - 363
+450349 = {
+	name = "Ysley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 105
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450350 = {
+	name = "Chalcke"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 106
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450351 = {
+	name = "Lylburne"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Baelish - 171/601
+450352 = {
+	name = "Galvayn"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 108
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450353 = {
+	name = "Bruges"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 109
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450354 = {
+	name = "Montgawin"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 110
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Bolton - 87
+450355 = {
+	name = "Skinner"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 111
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450356 = {
+	name = "Culling"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 112
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450357 = {
+	name = "Wailbeck"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 113
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Dustin - 79
+450358 = {
+	name = "Barrows"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 114
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450359 = {
+	name = "Thanett"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 115
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450360 = {
+	name = "Crownes"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 116
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Flint - 84
+450361 = {
+	name = "Glen"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 117
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450362 = {
+	name = "Sward"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 118
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450363 = {
+	name = "Shale"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 20
+			texture_internal = 119
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Karstark - 89
+450364 = {
+	name = "Karlsby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450365 = {
+	name = "Burnwood"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450366 = {
+	name = "Greycliff"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Manderly - 80
+450367 = {
+	name = "Rounton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450368 = {
+	name = "Wyse"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450369 = {
+	name = "Hall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Mormont - 102
+450370 = {
+	name = "Hume"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450371 = {
+	name = "Flagg"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450372 = {
+	name = "Barlough"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Reed - 126
+450373 = {
+	name = "Firth"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450374 = {
+	name = "Wett"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450375 = {
+	name = "Drownland"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Ryswell - 68
+450376 = {
+	name = "Rhynn"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450377 = {
+	name = "Trott"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450378 = {
+	name = "Maresfold"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Umber - 93
+450379 = {
+	name = "Bellows"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450380 = {
+	name = "Horn"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450381 = {
+	name = "Aske"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Glover - 62
+450382 = {
+	name = "Bracewell"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450383 = {
+	name = "Holt"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450384 = {
+	name = "Ward"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Hornwood - 83
+450385 = {
+	name = "Erkin"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450386 = {
+	name = "Jett"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450387 = {
+	name = "Mayall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Ashford - 265
+450388 = {
+	name = "Ambleton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450389 = {
+	name = "Tanfield"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450390 = {
+	name = "Raby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Hightower - 285
+450391 = {
+	name = "Wake"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450392 = {
+	name = "Stonewall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450393 = {
+	name = "Flambard"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 29
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Meadows - 270
+450394 = {
+	name = "Slumberton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450395 = {
+	name = "Nettlefield"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450396 = {
+	name = "Greenacre"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Oakheart - 237
+450397 = {
+	name = "Waringham"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450398 = {
+	name = "Acton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450399 = {
+	name = "Broadmoat"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Peake - 298
+450400 = {
+	name = "Groan"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 36
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450401 = {
+	name = "Gormont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 37
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450402 = {
+	name = "Starpike"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 38
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Redwyne - 288
+450403 = {
+	name = "Strongvine"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 39
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450404 = {
+	name = "Vintner"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 40
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450405 = {
+	name = "Rypewell"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 41
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Rowan - 250
+450406 = {
+	name = "Thadbury"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 42
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450407 = {
+	name = "Correy"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 43
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450408 = {
+	name = "Poynton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 44
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Tarly - 296
+450409 = {
+	name = "Hornby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 45
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450410 = {
+	name = "Illwyck"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 46
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450411 = {
+	name = "Redheath"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 47
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Footly - 248
+450412 = {
+	name = "Brimsley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 48
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450413 = {
+	name = "Catherby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 49
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450414 = {
+	name = "Trapper"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 50
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Crane - 234
+450415 = {
+	name = "Brey"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 51
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450416 = {
+	name = "Oldwater"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 52
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450417 = {
+	name = "Nockford"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 53
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Florent - 281
+450418 = {
+	name = "Silvercote"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 54
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450419 = {
+	name = "Underwood"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 55
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450420 = {
+	name = "Vernon"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 56
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Strickland - 1428
+450421 = {
+	name = "Bardsley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 57
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450422 = {
+	name = "Eardhill"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 58
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450423 = {
+	name = "Holgreve"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 59
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Osgrey - 235
+450424 = {
+	name = "Fletchfield"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 60
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450425 = {
+	name = "Newhall"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 61
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450426 = {
+	name = "Dowbridge"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 62
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Brax - 216
+450427 = {
+	name = "Wyverley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 63
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450428 = {
+	name = "Hove"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 64
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450429 = {
+	name = "Longfell"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 65
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Crakehall - 227
+450430 = {
+	name = "Glaveston"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 66
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450431 = {
+	name = "Moll"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 67
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450432 = {
+	name = "Oderrich"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 68
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Kenning - 195
+450433 = {
+	name = "Daventree"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 69
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+
+450434 = {
+	name = "Nordwyck"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 70
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+
+450435 = {
+	name = "Reeve"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 71
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Lefford - 213
+450436 = {
+	name = "Bougher"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 72
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450437 = {
+	name = "Lyringham"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 73
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450438 = {
+	name = "Urse"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 74
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Payne - 208
+450439 = {
+	name = "Orresby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 75
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450440 = {
+	name = "Gravenor"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 76
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450441 = {
+	name = "Russard"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 77
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Sarsfield - 233
+450442 = {
+	name = "Pitt"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 78
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450443 = {
+	name = "Queensmark"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 79
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450444 = {
+	name = "Splinterford"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 80
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Serret - 221
+450445 = {
+	name = "Argenmont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 81
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450446 = {
+	name = "Roache"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 82
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450447 = {
+	name = "Peckfield"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 83
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Westerling - 199
+450448 = {
+	name = "Cour"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 84
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450449 = {
+	name = "Estley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 85
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450450 = {
+	name = "Pollard"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 86
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Marbrand - 212
+450451 = {
+	name = "Emberton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 87
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450452 = {
+	name = "Hoarmont"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 88
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450453 = {
+	name = "Ashenspurr"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 89
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Swyft - 228
+450454 = {
+	name = "Nelsby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 90
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450455 = {
+	name = "Audley"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 91
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450456 = {
+	name = "Idmer"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 92
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Reyne - 197
+450457 = {
+	name = "Alton"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 93
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450458 = {
+	name = "Cesselrig"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 94
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450459 = {
+	name = "Lonnshead"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 95
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Prester - 196
+450460 = {
+	name = "Myddenham"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 96
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450461 = {
+	name = "Holham"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 97
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450462 = {
+	name = "Yeald"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 98
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Lorch - 207
+450463 = {
+	name = "Alestrum"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 99
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450464 = {
+	name = "Dunmill"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 100
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450465 = {
+	name = "Montcarr"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 101
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Foote - 204
+450466 = {
+	name = "Nestleigh"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 102
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450467 = {
+	name = "Steele"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 103
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450468 = {
+	name = "Deresby"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 104
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+#Plumm - 226
+450469 = {
+	name = "Brewerston"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 105
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450470 = {
+	name = "Fyne"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 106
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+450471 = {
+	name = "Mellor"
+	culture = hedge
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 21
+			texture_internal = 107
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
